@@ -1,13 +1,16 @@
 <!-- Profile README for BigWave45 -->
 
 <div align="center">
-  <img src="assets/banner.svg" alt="Abstract computational systems banner" width="100%" />
+  <img src="assets/banner.svg" alt="Computational systems banner" width="100%" />
+  <br />
+  <img src="assets/profile-photo.jpg" alt="Profile portrait" width="180" />
   <h1>BigWave45</h1>
   <p><strong>Independent Systems Builder</strong></p>
   <p>Building software around computation, protocols, and economic systems.</p>
   <p>
-    <a href="https://github.com/BigWave45">GitHub</a> ·
-    <a href="https://x.com/maxlensherr">X</a>
+    <a href="https://x.com/maxlensherr">X</a> ·
+    <a href="https://www.linkedin.com/in/damilola-ademodi-417346b9/">LinkedIn</a> ·
+    <a href="https://github.com/BigWave45">GitHub</a>
   </p>
 </div>
 
@@ -39,6 +42,7 @@ Computational models · Mechanism design · Financial systems · Autonomous agen
 ## Elsewhere
 
 - [X](https://x.com/maxlensherr)
+- [LinkedIn](https://www.linkedin.com/in/damilola-ademodi-417346b9/)
 - [GitHub](https://github.com/BigWave45)
 
 For collaboration or technical discussion, reach out through one of the profiles above.
